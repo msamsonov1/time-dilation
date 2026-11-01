@@ -154,7 +154,7 @@ Because the entire application is self-contained in a single file, running it lo
 ---
 
 
-
+Code is written by RF WaveCode Company
 CONFIDENTIAL & PROPRIETARY
 ALL RIGHTS RESERVED — RFWAVECODE 2026
 
