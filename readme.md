@@ -153,6 +153,13 @@ Because the entire application is self-contained in a single file, running it lo
 
 ---
 
-## 📄 License
+CONFIDENTIAL & PROPRIETARY 2026
+ALL RIGHTS RESERVED — RFWAVECODE
 
-This repository and its simulation codebase are released under the [MIT License](LICENSE). Software architecture, mathematical algorithms, and technical models are proprietary to **RF WaveCode** and subject to standard NASA SBIR data rights provisions.
+
+Commercial Licensing, Technical Partnerships & STTR Inquiries:
+Contact: Mikhail Samsonov / Parker O'Shell
+Email: support@rfwavecode.com
+Website: www.rfwavecode.com
+Office: 1980 N Atlantic Ave., Ste 213, Cocoa Beach, FL 32931
+Subject Format: [LUNARDUST-STTR] - <Inquiry Topic> - <Organization Name>
