@@ -162,4 +162,4 @@ Contact: Mikhail Samsonov / Parker O'Shell
 Email: support@rfwavecode.com
 Website: www.rfwavecode.com
 Office: 1980 N Atlantic Ave., Ste 213, Cocoa Beach, FL 32931
-Subject Format: [LUNARDUST-STTR] - <Inquiry Topic> - <Organization Name>
+
