@@ -148,9 +148,7 @@ Because the entire application is self-contained in a single file, running it lo
 ## 👥 Research & Development Team
 
 * **Prime Contractor:** Small Business Software Lead (Algorithms, Multiphysics, GPU Kernels)
-* **University Research Partner:** **University of Central Florida (UCF)**
-  * **CATER:** Center for Advanced Turbomachinery and Energy Research
-  * **CREOL:** The College of Optics and Photonics
+
 * **Inquiries & Licensing:** [support@rfwavecode.com](mailto:support@rfwavecode.com)
 
 ---
