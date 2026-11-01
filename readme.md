@@ -155,6 +155,12 @@ Because the entire application is self-contained in a single file, running it lo
 
 ---
 
-## 📄 License
 
-This repository and its simulation codebase are released under the [MIT License](LICENSE). Software architecture and technical proposals subject to NASA SBIR/STTR data rights provisions.
+
+CONFIDENTIAL & PROPRIETARY
+ALL RIGHTS RESERVED — RFWAVECODE 2026
+
+Contact: Mikhail Samsonov / Parker O'Shell
+Email: support@rfwavecode.com
+Website: www.rfwavecode.com
+Office: 1980 N Atlantic Ave., Ste 213, Cocoa Beach, FL 32931
